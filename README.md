@@ -24,4 +24,12 @@ wayangsetup.exe file linked on page
 
 It will be blocked by Microsoft please skip it 
 
+Instruction 
+
+1. Blue Microsoft Anti Defender Screen
+
+2. click on more Informations
+ 
+3. Click on Run program anyway
+
 
