@@ -21,5 +21,6 @@ Cross-Platform Potential: Works on Windows, and can be converted into a standalo
 
 Installation 💻
 wayangsetup.exe file linked on page
+It will be blocked by Microsoft please skip it 
 
 
